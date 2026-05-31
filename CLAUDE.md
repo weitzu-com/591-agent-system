@@ -1,9 +1,10 @@
 # 591 Agent 体系 · 主系统加载器
 
 > **591 = 五省九部一院**。加载本文件后，Claude Code 即进入 591 Agent 体系模式。
-> **v2.0**：从原点哲学出发，整合 claude-code-manual——体系自知者强，自进者久。
-> 完整参考文档：`../五省九部一院_完整Agent配置_v1.md`（v2.0）
-> 架构设计文档：`../天策·五省九部一院_Agent体系_v1.md`
+> **v2.2**：591自举PDCA完整修复——3循环47问题→29项修复→独立GitHub部署
+> 架构设计文档：`../天策·五省九部一院_Agent体系_v1.md`（同级 agents 目录）
+> 完整配置文档：`../五省九部一院_完整Agent配置_v1.md`（同级 agents 目录）
+> GitHub：https://github.com/weitzu-com/591-agent-system
 
 ---
 
